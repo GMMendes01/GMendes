@@ -7,11 +7,7 @@ Olá! 👋 Eu sou Guilherme, e este é o meu repositório no GitHub. Aqui você 
 - 🔭 Atualmente trabalhando em: Projeto Integrador 2º Semestre   
 - 🌱 Aprendendo: Java | Ruby | Laravel   
 - 💬 Pergunte-me sobre: PHP | React  
-- 📫 Como me encontrar:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g7000mendes@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mendexkk)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11953526954)
-
+- 📫 Como me encontrar: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g7000mendes@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mendexkk) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11953526954)
 ## 🛠️ Tecnologias e Ferramentas  
 
 <div style="display: inline_block">
